@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ilias</h1>
-<h3 align="center">A seasoned professional with a background that includes roles from IT Support Specialist to Web Designer & Developer, and currently, a Warehouse Control Center Coordinator. My focus is on leveraging data analytics, web development, and automation to streamline operations and boost efficiency. I've developed tools for automating processes, enhancing communication systems, and upgrading e-commerce platforms, which have significantly improved operations and customer experiences. My work showcases a blend of technical expertise, analytical thinking, and creative problem-solving, all aimed at delivering tangible results.</h3>
+<h1 align="left">Hi 👋, I'm Ilias</h1>
+<h3 align="left">A seasoned professional with a background that includes roles from IT Support Specialist to Web Designer & Developer, and currently, a Warehouse Control Center Coordinator. My focus is on leveraging data analytics, web development, and automation to streamline operations and boost efficiency. I've developed tools for automating processes, enhancing communication systems, and upgrading e-commerce platforms, which have significantly improved operations and customer experiences. My work showcases a blend of technical expertise, analytical thinking, and creative problem-solving, all aimed at delivering tangible results.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
